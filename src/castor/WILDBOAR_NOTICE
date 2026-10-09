@@ -1,0 +1,10 @@
+CASTOR uses the Wildboar project at runtime and reproduces the behavior of its
+SparseScaler in src/castor/features.py.
+
+Wildboar is distributed under the BSD 3-Clause License.
+
+Copyright (c) 2018-2022, the Wildboar developers.
+All rights reserved.
+
+The full license is available at:
+https://github.com/wildboar-foundation/wildboar/blob/master/LICENSE
