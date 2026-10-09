@@ -1,0 +1,4 @@
+# Install with --no-deps after requirements.txt. Wildboar 1.2.1's declared
+# scikit-learn upper bound conflicts with aeon 1.5, while CASTOR itself is bridged
+# to the project's newer scikit-learn validation API in src/castor/features.py.
+wildboar==1.2.1
