@@ -1,0 +1,8 @@
+The WEASEL 2.0 implementation uses aeon's public SFAFast transform and follows the
+parameter sampling behavior of aeon.classification.dictionary_based.WEASEL_V2.
+
+aeon is distributed under the BSD 3-Clause License.
+Copyright (c) the aeon developers and sktime developers.
+
+The full license is available at:
+https://github.com/aeon-toolkit/aeon/blob/main/LICENSE
